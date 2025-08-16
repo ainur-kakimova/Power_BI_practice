@@ -11,22 +11,16 @@ The goal of this project was to strengthen my skills in:
 - Tracking KPIs against targets  
 - Designing multi-page reports with different perspectives  
 
----
-
 ## Dataset  
 - **Source**: Provided by the *Power BI Fundamentals* course (synthetic training dataset).  
 - **Content**: Sales transactions, store locations, product departments, wages, rent, and profitability.  
 - **Purpose**: Used for learning Power BI features and dashboard design.  
-
----
 
 ## Objectives  
 - Track sales KPIs vs. targets across states.  
 - Compare sales by store type, size, and department.  
 - Identify regions and departments contributing most to total revenue.  
 - Explore cost drivers such as wages and rent.  
-
----
 
 ## Dashboard Pages  
 
@@ -38,22 +32,16 @@ The goal of this project was to strengthen my skills in:
 ![Cost and Target Tracking](Screenshot_Power_BI_CostandTarget_Page2.png)  
 *Focus on sales KPI tracking vs. goals, wages and sales performance by state, and the relationship between store rent and size.*  
 
----
-
 ## Files in this Repository  
 - [Power_BI_practice.pbix](Power_BI_practice.pbix) → Power BI report file  
 - [Screenshot_Power_BI_Sales_Page1.png](Screenshot_Power_BI_Sales_Page1.png) → Page 1 dashboard image  
 - [Screenshot_Power_BI_CostandTarget_Page2.png](Screenshot_Power_BI_CostandTarget_Page2.png) → Page 2 dashboard image  
-
----
 
 ## Key Insights  
 - Sales peak in December, showing strong seasonality.  
 - Connecticut and Indiana exceeded targets, while West Virginia underperformed significantly.  
 - Clothing consistently generates the highest sales, especially in **CORE** stores.  
 - Store size correlates with higher rent, but not always with higher profitability.  
-
----
 
 ## Skills Practiced  
 - Data modeling: building relationships between fact and dimension tables.  
