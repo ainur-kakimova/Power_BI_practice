@@ -3,7 +3,7 @@
 ## Project Overview  
 This project was developed as part of the **Power BI Fundamentals** course. The dashboard analyzes retail sales performance across U.S. states, departments, and store types.  
 
-While the overall structure followed the instructor’s guidance, I made several **customizations** to practice independent design choices — for example, replacing a map visualization with a line chart on the overview page to better highlight sales seasonality.  
+While the overall structure followed the instructor's guidance, I made several **customizations** to practice independent design choices - for example, replacing a map visualization with a line chart on the overview page to better highlight sales seasonality.  
 
 The goal of this project was to strengthen my skills in:  
 - Building interactive dashboards in **Power BI Desktop**  
@@ -24,11 +24,11 @@ The goal of this project was to strengthen my skills in:
 
 ## Dashboard Pages  
 
-**Page 1 – Retail Sales Overview**  
+**Page 1 - Retail Sales Overview**  
 ![Retail Sales Overview](Screenshot_Power_BI_Sales_Page1.png)  
 *High-level overview of total sales by month, KPIs (YTD, total sales, total gross profit), and breakdowns by store location, department, and store type. I customized this page by replacing a map with a line chart to highlight monthly sales trends.*  
 
-**Page 2 – Cost and Target Tracking**  
+**Page 2 - Cost and Target Tracking**  
 ![Cost and Target Tracking](Screenshot_Power_BI_CostandTarget_Page2.png)  
 *Focus on sales KPI tracking vs. goals, wages and sales performance by state, and the relationship between store rent and size.*  
 
